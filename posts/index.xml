@@ -826,6 +826,18 @@ $ vi themes/zafta/layouts/_default/single.html
         </item>
         
         <item>
+            <title>帖子1</title>
+            <link>https://henryzhu19.github.io/posts/2014/09/%E5%B8%96%E5%AD%901/</link>
+            <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+            
+            <guid>https://henryzhu19.github.io/posts/2014/09/%E5%B8%96%E5%AD%901/</guid>
+            <description>Introduction 第一个帖子</description>
+            <content type="html"><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>第一个帖子</p>
+]]></content>
+        </item>
+        
+        <item>
             <title>Migrate to Hugo from Jekyll</title>
             <link>https://henryzhu19.github.io/posts/2014/03/migrate-to-hugo-from-jekyll/</link>
             <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
